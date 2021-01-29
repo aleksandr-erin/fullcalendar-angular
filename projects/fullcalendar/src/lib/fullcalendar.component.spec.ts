@@ -1,7 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { Component } from '@angular/core';
 import { FullCalendarComponent } from './fullcalendar.component';
-import dayGridPlugin from '@fullcalendar/daygrid';
+import dayGridPlugin from '@fullcalendar-lw/daygrid';
 
 const DEFAULT_OPTIONS = {
   plugins: [dayGridPlugin]

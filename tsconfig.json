@@ -21,10 +21,10 @@
       "dom"
     ],
     "paths": {
-      "@fullcalendar/angular": [
+      "@fullcalendar-lw/angular": [
         "projects/fullcalendar/src/public_api.ts"
       ],
-      "@fullcalendar/angular/*": [
+      "@fullcalendar-lw/angular/*": [
         "dist/fullcalendar/*"
       ]
     }

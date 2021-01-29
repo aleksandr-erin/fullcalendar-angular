@@ -1,8 +1,8 @@
 import { Component, OnInit, ViewChild, forwardRef } from '@angular/core';
-import { CalendarOptions, Calendar } from '@fullcalendar/core';
-import dayGridPlugin from '@fullcalendar/daygrid';
-import interactionPlugin from '@fullcalendar/interaction';
-import { FullCalendarComponent } from '@fullcalendar/angular';
+import { CalendarOptions, Calendar } from '@fullcalendar-lw/core';
+import dayGridPlugin from '@fullcalendar-lw/daygrid';
+import interactionPlugin from '@fullcalendar-lw/interaction';
+import { FullCalendarComponent } from '@fullcalendar-lw/angular';
 
 @Component({
   selector: 'app-root',

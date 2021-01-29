@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import { globalPlugins, PluginDef } from '@fullcalendar/core';
+import { globalPlugins, PluginDef } from '@fullcalendar-lw/core';
 import { FullCalendarComponent } from './fullcalendar.component';
 
 @NgModule({

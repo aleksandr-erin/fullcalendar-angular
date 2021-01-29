@@ -9,7 +9,7 @@ import {
   OnDestroy,
   ViewEncapsulation
 } from '@angular/core';
-import { Calendar, CalendarOptions } from '@fullcalendar/core';
+import { Calendar, CalendarOptions } from '@fullcalendar-lw/core';
 import { deepCopy, shallowCopy, mapHash } from './utils';
 import { OPTION_IS_DEEP } from './fullcalendar-options';
 
